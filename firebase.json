@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "michaelconiaris23",
-    "public": "public",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
