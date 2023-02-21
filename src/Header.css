@@ -2,11 +2,20 @@
     text-align: center;
     background-color: black;
     min-height: 10vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
   }
+
+  .site-title {
+    display: inline-block;
+  }
+
+  .site-title-text {
+    display: inline-block;
+    font-size: 3em;
+  }
   
+  .Header-image {
+    max-width: 4em;
+    display: inline-block;
+  }
