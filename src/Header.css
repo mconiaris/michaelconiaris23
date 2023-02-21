@@ -14,6 +14,14 @@
     font-size: 1.7em;
   }
   
-  .Header-image {
+  .Header-image-left {
+    max-width: 12em;
+  }
+
+  .site-title-right {
+    display: inline-block;
+  }
+
+  .Header-image-right {
     max-width: 12em;
   }
