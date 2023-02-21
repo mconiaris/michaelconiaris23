@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import Header from './Header';
+import Main from './Main';
 
 function App() {
   return (
@@ -9,6 +10,9 @@ function App() {
       <header className="App-header">
         <Header/>
       </header>
+      <body>
+        <Main/>
+      </body>
     </div>
   );
 }
