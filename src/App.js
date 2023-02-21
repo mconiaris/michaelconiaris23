@@ -20,7 +20,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <p>This is from App.js</p>
     </div>
   );
 }
