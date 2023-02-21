@@ -6,22 +6,10 @@
     color: white;
   }
 
-  .site-title-left {
-    display: inline-block;
-  }
-
   .site-title-text {
-    font-size: 1.7em;
+    font-size: 3em;
   }
   
-  .Header-image-left {
-    max-width: 12em;
-  }
-
-  .site-title-right {
-    display: inline-block;
-  }
-
-  .Header-image-right {
-    max-width: 12em;
+  .Header-image {
+    max-width: 100vw;
   }
