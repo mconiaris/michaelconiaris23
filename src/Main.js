@@ -3,7 +3,9 @@ import './Main.css';
 
 export default function Main() {
     return (
-        <p>Main Page.</p>
+        <body>
+            <p>Main Page.</p>
+        </body>
     )
     
 }
