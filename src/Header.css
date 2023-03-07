@@ -21,11 +21,11 @@
     text-align: center;
     max-width: 100%;
     color: white;
-    filter: blur(3px);
-    -webkit-filter: blur(3px);
     object-fit: contain;
   }
 
   .Header-image img {
     max-width: 100%;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
   }
