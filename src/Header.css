@@ -33,6 +33,11 @@
     -webkit-filter: blur(3px);
   }
 
+
+  .site-link {
+    display: inline-block;
+  }
+
   .site-link a {
     color: black;
     background-color: lime;
@@ -43,4 +48,9 @@
 
   .site-link a:hover {
     text-decoration: underline;
+  }
+
+  .site-link-divider {
+    display: inline-block;
+    padding: 0px 2px;
   }

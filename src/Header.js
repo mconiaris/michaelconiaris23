@@ -12,6 +12,7 @@ export default function Header() {
                 <div className="site-title-text">Michael Coniaris</div>
                 <div className="site-link-container">
                     <div className="site-link"><a href="https://github.com/mconiaris">GitHub Profile</a></div>
+                    <div className="site-link-divider"> | </div>
                     <div className="site-link"><a href="https://www.linkedin.com/in/michaelconiaris/">LinkedIn Profile</a></div>
                 </div>
             </div>
