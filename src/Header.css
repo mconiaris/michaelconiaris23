@@ -33,6 +33,12 @@
     -webkit-filter: blur(3px);
   }
 
+  .site-link-container {
+    position: absolute;
+    transform: translate(-35%, -50%);
+    top: 80%;
+    left: 44%;
+  }
 
   .site-link {
     display: inline-block;
@@ -40,7 +46,7 @@
 
   .site-link a {
     color: black;
-    background-color: rgb(85, 210, 85);
+    background-color: rgb(54, 204, 54);
     padding: 5px;
     text-decoration: none;
   }
@@ -52,4 +58,10 @@
   .site-link-divider {
     display: inline-block;
     padding: 0px 3px;
+  }
+
+  @media (max-width: 1250px) {
+    .site-link a {
+      font-size: 55%;
+    }
   }
