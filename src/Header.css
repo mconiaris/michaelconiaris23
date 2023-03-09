@@ -61,6 +61,10 @@
   }
 
   @media (max-width: 1250px) {
+    .site-title-text {
+      font-size: 1.5em;
+    }
+    
     .site-link a {
       font-size: 55%;
     }
