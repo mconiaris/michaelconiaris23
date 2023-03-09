@@ -32,3 +32,15 @@
     filter: blur(3px);
     -webkit-filter: blur(3px);
   }
+
+  .site-link a {
+    color: black;
+    background-color: lime;
+    border: solid lime 3px;
+    padding: 4px;
+    text-decoration: none;
+  }
+
+  .site-link a:hover {
+    text-decoration: underline;
+  }
