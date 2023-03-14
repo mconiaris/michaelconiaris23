@@ -15,7 +15,7 @@ body {
 }
 
 .samples-title {
-    color: #dfde4b;
+    color: white;
     text-align: center;
     font-size: 2em;
     border: 1px solid #dfde4b;
@@ -31,6 +31,7 @@ body {
 .sample h2 {
     text-align: center;
     margin: 2px;
+    color: #dfde4b;
 }
 
 .sample img {
