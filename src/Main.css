@@ -2,3 +2,18 @@ body {
     color: white;
     background-color: #282c34;
 }
+
+.samples {
+    max-width: 1039px;
+}
+
+.samples-title {
+    color: #dfde4b;
+    text-align: center;
+    font-size: 2em;
+    border: 1px solid #dfde4b;
+    font-family: monospace;
+    max-width: 1039px;
+    margin-left: auto;
+    margin-right: auto;
+}
