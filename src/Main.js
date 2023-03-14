@@ -7,17 +7,16 @@ export default function Main() {
             <div className="samples-title">
                 <h1>Samples</h1>
             </div>
-            
+
             <div className="sample">
-                <h2>Example 1</h2>
                 <img 
-                    alt="Michael Conairis's Website." 
-                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
+                    alt="SPWG Card Maker Link." 
+                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SPWG+Card+maker+Screen+Shot.png">
                 </img>
-                <h2>Example 2</h2>
+                <h2>Courtney Follweiler's Dance Therapy</h2>
                 <img 
-                    alt="Michael Conairis's Website." 
-                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
+                    alt="Courtney Follweiler's Website." 
+                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
                 </img>
             </div>
         </div>
