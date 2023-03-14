@@ -15,6 +15,10 @@
     margin-right: auto;
   }
 
+  .Header-image img {
+    opacity: 0.6;
+  }
+
   .site-title-text {
     font-size: 3em;
     position: absolute;
