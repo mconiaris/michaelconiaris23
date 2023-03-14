@@ -5,6 +5,13 @@ body {
 
 .samples-container {
     max-width: 1039px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.samples-container h1 {
+    font-size: 1em;
+    margin: 3px;
 }
 
 .samples-title {
@@ -14,6 +21,18 @@ body {
     border: 1px solid #dfde4b;
     font-family: monospace;
     max-width: 1039px;
+}
+
+.sample {
     margin-left: auto;
     margin-right: auto;
+}
+
+.sample h2 {
+    text-align: center;
+    margin: 2px;
+}
+
+.sample img {
+    max-width: 1039px;
 }
