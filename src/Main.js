@@ -3,23 +3,26 @@ import './Main.css';
 
 export default function Main() {
     return (
-        <div className="samples-container">
+        <div className="main-container">
             <div className="samples-title">
                 <h1>Samples</h1>
             </div>
+            <div className="samples-container">
+                
 
-            <div className="sample">
-                <div className="simple-image">
+                <div className="sample">
+                    <div className="simple-image">
+                        <img 
+                            alt="SPWG Card Maker Link." 
+                            src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SPWG+Card+maker+Screen+Shot.png">
+                        </img>
+                    </div>
+                    <h2>Courtney Follweiler's Dance Therapy</h2>
                     <img 
-                        alt="SPWG Card Maker Link." 
-                        src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SPWG+Card+maker+Screen+Shot.png">
+                        alt="Courtney Follweiler's Website." 
+                        src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
                     </img>
                 </div>
-                <h2>Courtney Follweiler's Dance Therapy</h2>
-                <img 
-                    alt="Courtney Follweiler's Website." 
-                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
-                </img>
             </div>
         </div>
     )
