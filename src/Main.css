@@ -22,6 +22,8 @@ body {
     border: 1px solid #dfde4b;
     font-family: monospace;
     max-width: 1039px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sample {
