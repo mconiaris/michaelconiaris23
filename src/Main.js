@@ -17,6 +17,8 @@ export default function Main() {
                             src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SPWG+Card+maker+Screen+Shot.png">
                         </img>
                     </div>
+                </div>
+                <div className="sample">
                     <h2>Courtney Follweiler's Dance Therapy</h2>
                     <img 
                         alt="Courtney Follweiler's Website." 
