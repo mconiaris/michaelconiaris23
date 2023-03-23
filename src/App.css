@@ -26,5 +26,13 @@ img {
 }
 
 .top {
-  grid-row-end: 1;
+  grid-row: 1;
+}
+
+.row-two {
+  grid-row: 2;
+}
+
+.row-three {
+  grid-row: 3;
 }

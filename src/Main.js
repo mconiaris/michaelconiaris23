@@ -10,7 +10,7 @@ export default function Main() {
             <div className="samples-container">
                 
 
-                <div className="sample">
+                <div className="sample full row-two">
                     <div className="simple-image">
                         <img 
                             alt="SPWG Card Maker Link." 
@@ -18,7 +18,7 @@ export default function Main() {
                         </img>
                     </div>
                 </div>
-                <div className="sample">
+                <div className="sample full row-three">
                     <h2>Courtney Follweiler's Dance Therapy</h2>
                     <img 
                         alt="Courtney Follweiler's Website." 
