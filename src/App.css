@@ -9,3 +9,22 @@ img {
   margin: 0 auto;
   max-width: 1039px;
 }
+
+.full {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.left {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.right {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.top {
+  grid-row-end: 1;
+}

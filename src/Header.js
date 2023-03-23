@@ -3,7 +3,7 @@ import './Header.css';
 
 export default function Header() {
     return (
-        <header className="App-header">
+        <header className="App-header top full">
             <div className="Header-image">
                 <img 
                     alt="Michael Conairis's Website." 
