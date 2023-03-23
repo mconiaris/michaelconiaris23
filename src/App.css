@@ -1,6 +1,7 @@
 .App {
   background-color: #282c34;
   display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 img {
