@@ -1,5 +1,6 @@
 .App-header {
-    text-align: center;
+  display: inline-flex;    
+  text-align: center;
     background-color: #282c34;
     font-size: calc(10px + 2vmin);
     color: white;
@@ -14,26 +15,14 @@
     margin-right: auto;
   }
 
-  .Header-image img {
-    opacity: 0.6;
-  }
-
   .site-title-text {
-    font-size: 3em;
-    position: absolute;
-    top: 50%;
-    left: 43%;
-    transform: translate(-35%, -50%);
-    border: solid #7d937b 5px;
-    padding: 7px;
-    
+    color: white;
+    font-size: 4em;
   }
   
 
   .Header-image img {
-    max-width: 100%;
-    filter: blur(2px);
-    -webkit-filter: blur(2px);
+    height: 5em;
   }
 
   .site-link-container {
@@ -61,14 +50,4 @@
   .site-link-divider {
     display: inline-block;
     padding: 0px 3px;
-  }
-
-  @media (max-width: 1250px) {
-    .site-title-text {
-      font-size: 1.5em;
-    }
-    
-    .site-link a {
-      font-size: 70%;
-    }
   }
