@@ -1,23 +1,24 @@
 .App-header {
   display: inline-flex;    
   text-align: center;
-    background-color: #339b23;
-    font-size: calc(10px + 2vmin);
-    color: white;
-  }
+  background-color: #339b23;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+
+}
 
   .Header-image {
     position: relative;
-    text-align: center;
     color: white;
     object-fit: contain;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .site-title-text {
     color: white;
     font-size: 4em;
+    padding: 0 8px;
   }
   
 
