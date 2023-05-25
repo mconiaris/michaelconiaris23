@@ -1,52 +1,47 @@
-.App-header {
-  display: inline-flex;    
+.AppHeader {
   text-align: center;
   background-color: #339b23;
-  font-size: calc(10px + 2vmin);
-  color: white;
   margin-left: auto;
   margin-right: auto;
 
 }
 
-  .Header-image {
-    position: relative;
+  .HeaderImage {
     color: white;
-    object-fit: contain;
   }
 
-  .site-title-text {
+  .SiteTitleText {
     color: white;
-    font-size: 4em;
+    font-size: 3em;
     padding: 0 8px;
   }
   
 
-  .Header-image img {
+  .HeaderImage img {
     height: 5em;
   }
 
-  .site-link-container {
+  .SiteLinkContainer {
     margin-left: auto;
     margin-right: auto;
   }
 
-  .site-link {
+  .SiteLink {
     display: inline-block;
   }
 
-  .site-link a {
+  .SiteLink a {
     color: black;
     background-color: rgb(125 230 125);
     padding: 5px;
     text-decoration: none;
   }
 
-  .site-link a:hover {
+  .SiteLink a:hover {
     text-decoration: underline;
   }
 
-  .site-link-divider {
+  .SiteLinkDivider {
     display: inline-block;
     padding: 0px 3px;
   }

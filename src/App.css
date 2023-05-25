@@ -36,3 +36,7 @@ img {
 .row-three {
   grid-row: 3;
 }
+
+.row-four {
+  grid-row: 4;
+}
