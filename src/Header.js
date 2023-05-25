@@ -3,8 +3,8 @@ import './Header.css';
 
 export default function Header() {
     return (
-        <header className="AppHeader">
-            <div className="HeaderImage Top Full">
+        <header className="AppHeader top full">
+            <div className="HeaderImage">
                 <img 
                     alt="Michael Conairis's Website." 
                     src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
