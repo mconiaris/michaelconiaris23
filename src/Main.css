@@ -3,19 +3,18 @@ body {
     background-color: #282c34;
 }
 
-.samples-container {
+.SamplesContainer {
     max-width: 1039px;
     margin-left: auto;
     margin-right: auto;
-    display: flex;
 }
 
-.samples-container h1 {
+.SamplesContainer h1 {
     font-size: 1em;
     margin: 3px;
 }
 
-.samples-title {
+.SamplesTitle {
     color: white;
     text-align: center;
     font-size: 2em;
@@ -26,17 +25,17 @@ body {
     margin-right: auto;
 }
 
-.samples-title h1 {
+.SamplesTitle h1 {
     margin-top: 2px;
     margin-bottom: 2px;
 }
 
-.sample {
+.Sample {
     margin-left: auto;
     margin-right: auto;
 }
 
-.sample h2 {
+.Sample h2 {
     text-align: center;
     margin: 2px;
     color: #dfde4b;
