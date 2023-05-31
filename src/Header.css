@@ -11,19 +11,18 @@
   }
 
   .SiteTitleText {
-    display: inline;
     color: white;
     font-size: 3em;
     padding: 0 8px;
   }
 
   .Banner {
-    display: inline-block;
+    display: flex;
+    align-items: center;
   }
   
 
   .Banner img {
-    display: inline;
     height: 5em;
   }
 

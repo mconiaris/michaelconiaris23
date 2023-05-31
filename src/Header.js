@@ -5,15 +5,20 @@ export default function Header() {
     return (
         <header className="AppHeader top full">
             <div className="Banner">
-                <img 
-                    alt="Michael Conairis's Website." 
-                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
-                </img>
+                <div className="BannerImg">
+                    <img 
+                        alt="Michael Conairis's Website." 
+                        src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
+                    </img>
+                </div>
+                
                 <div className="SiteTitleText">Michael Coniaris</div>
-                <img 
-                    alt="Michael Conairis's Website." 
-                    src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
-                </img>
+                <div className="BannerImg">
+                    <img 
+                        alt="Michael Conairis's Website." 
+                        src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
+                    </img>
+                </div>
             </div>   
             <div className="SiteLinkContainer full row-two">
                 <div className="site-link"><a href="https://github.com/mconiaris">GitHub Profile</a></div>
