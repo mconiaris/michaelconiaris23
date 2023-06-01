@@ -3,6 +3,10 @@ body {
     background-color: #282c34;
 }
 
+.MainContainer {
+    margin-top: 5px;
+}
+
 .SamplesContainer {
     max-width: 1039px;
     margin-left: auto;
@@ -17,10 +21,9 @@ body {
 .SamplesTitle {
     color: white;
     text-align: center;
-    font-size: 2em;
+    font-size: 1em;
     border: 1px solid #dfde4b;
-    font-family: monospace;
-    max-width: 1039px;
+    font-family: sans-serif;
     margin-left: auto;
     margin-right: auto;
 }

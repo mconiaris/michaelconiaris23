@@ -3,11 +3,11 @@ import './Main.css';
 
 export default function Main() {
     return (
-        <div className="main-container">
+        <div className="MainContainer">
             <div className="SamplesTitle">
                 <h1>Samples</h1>
             </div>
-            <div className="samples-container">
+            <div className="SamplesContainer">
                 
 
                 <div className="sample">
