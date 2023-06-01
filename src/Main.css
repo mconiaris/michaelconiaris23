@@ -5,10 +5,10 @@ body {
 
 .MainContainer {
     margin-top: 5px;
+    max-width: inherit;
 }
 
 .SamplesContainer {
-    max-width: 25em;
     margin-left: auto;
     margin-right: auto;
 }
