@@ -4,7 +4,7 @@ import './Main.css';
 export default function Main() {
     return (
         <div className="main-container">
-            <div className="samples-title">
+            <div className="SamplesTitle">
                 <h1>Samples</h1>
             </div>
             <div className="samples-container">
