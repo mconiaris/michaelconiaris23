@@ -15,9 +15,9 @@ export default function Header() {
                 <div className="SiteTitleText">Michael Coniaris</div>
             </div>   
             <div className="SiteLinkContainer full row-two">
-                <div className="site-link"><a href="https://github.com/mconiaris">GitHub Profile</a></div>
-                <div className="site-link-divider"> | </div>
-                <div className="site-link"><a href="https://www.linkedin.com/in/michaelconiaris/">LinkedIn Profile</a></div>
+                <div className="SiteLink"><a href="https://github.com/mconiaris">GitHub Profile</a></div>
+                <div className="SiteLinkDivider"> | </div>
+                <div className="SiteLink"><a href="https://www.linkedin.com/in/michaelconiaris/">LinkedIn Profile</a></div>
             </div>
         </header>
     )
