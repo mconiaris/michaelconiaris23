@@ -43,3 +43,7 @@ body {
     margin: 2px;
     color: #dfde4b;
 }
+
+.Sample img {
+    max-width: 50%;
+}
