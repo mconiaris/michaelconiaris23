@@ -1,9 +1,11 @@
 import React from "react";
 import './Main.css';
+import Header from './Header';
 
 export default function Main() {
     return (
         <div className="MainContainer">
+            <Header/>
             <div className="SamplesTitle">
                 <h1>Samples</h1>
             </div>
