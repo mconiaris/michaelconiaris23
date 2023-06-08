@@ -27,27 +27,20 @@
   margin-left: auto;
 }
 
-  .Banner {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-
-  .SiteLinkContainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 2em;
-    background-color: #b5c1b8;
-    width: 18em;
-  }
+.SiteLinkContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2em;
+  width: 18em;
+}
 
   .SiteLink {
-    background-color: #339b23;
+    background-color: #112016;
     padding: 5px;
     border-radius: 30px;
     height: 1.3em;
+    border: white solid 1px;
   }
 
   .SiteLink a {
