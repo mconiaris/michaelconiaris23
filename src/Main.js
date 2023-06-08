@@ -3,7 +3,7 @@ import './Main.css';
 
 export default function Main() {
     return (
-        <div className="MainContainer full">
+        <div className="MainContainer">
             <div className="SamplesTitle">
                 <h1>Samples</h1>
             </div>
