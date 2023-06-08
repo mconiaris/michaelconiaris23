@@ -1,32 +1,30 @@
 .AppHeader {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 2fr 1fr;
   text-align: center;
   background-color: #339b23;
-  margin-left: auto;
-  margin-right: auto;
-
+  justify-items: center;
+  align-items: center;
 }
 
-  .HeaderImage {
-    color: white;
-  }
+.AppHeader img {
+  height: 8em;
+}
 
-  .SiteTitleText {
-    color: white;
-    font-size: 4em;
-    padding: 0 9px;
-    font-family: monospace;
-  }
+.SiteTitleText {
+  color: white;
+  font-size: 3.6em;
+  padding: 0 9px;
+  font-family: monospace;
+}
 
   .Banner {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  
 
-  .Banner img {
-    height: 5em;
-  }
 
   .SiteLinkContainer {
     display: flex;
