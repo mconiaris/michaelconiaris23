@@ -4,7 +4,7 @@ import './Header.css';
 export default function Header() {
     return (
         <header className="AppHeader">
-            <div className="BannerImg double left">
+            <div className="BannerImg double left img-left">
                 <img 
                     alt="Michael Conairis's Website." 
                     src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
@@ -17,7 +17,7 @@ export default function Header() {
                 <div className="SiteLinkDivider"> | </div>
                 <div className="SiteLink"><a href="https://www.linkedin.com/in/michaelconiaris/">LinkedIn Profile</a></div>
             </div>
-            <div className="BannerImg double right">
+            <div className="BannerImg double right img-right">
                 <img 
                     alt="Michael Conairis's Website." 
                     src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg">
