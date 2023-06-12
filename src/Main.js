@@ -11,6 +11,7 @@ export default function Main() {
                 
 
                 <div className="Sample">
+                    <h2>spwgcards.com</h2>
                     <div className="SampleImage">
                         <img 
                             alt="SPWG Card Maker Link." 
