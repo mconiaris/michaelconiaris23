@@ -8,10 +8,10 @@ export default function Main() {
                 <h1>Samples</h1>
             </div>
             <div className="SamplesContainer">
-                
-
                 <div className="Sample">
-                    <h2>spwgcards.com</h2>
+                    <div className="SampleText">
+                        <h2>spwgcards.com</h2>
+                    </div>
                     <div className="SampleImage">
                         <img 
                             alt="SPWG Card Maker Link." 
@@ -20,11 +20,15 @@ export default function Main() {
                     </div>
                 </div>
                 <div className="Sample">
-                    <h2>Courtney Follweiler's Dance Therapy</h2>
-                    <img 
-                        alt="Courtney Follweiler's Website." 
-                        src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
-                    </img>
+                    <div className="SampleText">
+                        <h2>Courtney Follweiler's Dance Therapy</h2>
+                    </div>
+                    <div className="SampleImage">
+                        <img 
+                            alt="Courtney Follweiler's Website." 
+                            src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
+                        </img>
+                    </div>
                 </div>
             </div>
         </div>
