@@ -11,6 +11,7 @@ export default function Main() {
                 <div className="Sample">
                     <div className="SampleText">
                         <h2>spwgcards.com</h2>
+                        <p>This is sample text for spwgcards.</p>
                     </div>
                     <div className="SampleImage">
                         <img 
@@ -22,6 +23,7 @@ export default function Main() {
                 <div className="Sample">
                     <div className="SampleText">
                         <h2>Courtney Follweiler's Dance Therapy</h2>
+                        <p>This is sample text for Courtney's Website.</p>
                     </div>
                     <div className="SampleImage">
                         <img 
