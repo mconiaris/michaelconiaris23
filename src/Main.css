@@ -35,8 +35,7 @@ body {
 
 .Sample {
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    flex: 50%;
 }
 
 .Sample h2 {
@@ -46,5 +45,6 @@ body {
 }
 
 .Sample img {
-    max-width: 50%;
+    max-width: 80%;
+    
 }
