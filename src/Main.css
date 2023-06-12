@@ -33,11 +33,6 @@ body {
     margin-bottom: 2px;
 }
 
-.Sample {
-    display: flex;
-    flex: 50%;
-}
-
 .Sample h2 {
     text-align: center;
     margin: 2px;
@@ -45,6 +40,7 @@ body {
 }
 
 .Sample img {
+    float: left;
     max-width: 80%;
     
 }
