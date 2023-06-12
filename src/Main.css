@@ -40,7 +40,7 @@ body {
 }
 
 .Sample img {
-    float: left;
     max-width: 80%;
+    float: right;
     
 }
