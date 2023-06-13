@@ -6,6 +6,7 @@
   background-color: #339b23;
   justify-items: center;
   align-items: center;
+  height: 6em;
 }
 
 .AppHeader img {
@@ -14,9 +15,15 @@
 
 .SiteTitleText {
   color: white;
-  font-size: 2.8em;
+  font-size: 2.7em;
   padding: 0 9px;
   font-family: monospace;
+}
+
+.SiteSubHeader {
+  color: white;
+  font-size: small;
+  padding-bottom: 7px;
 }
 
 .img-left {
@@ -41,6 +48,7 @@
     border-radius: 30px;
     height: 1.3em;
     border: white solid 1px;
+    font-size: small;
   }
 
   .SiteLink a {

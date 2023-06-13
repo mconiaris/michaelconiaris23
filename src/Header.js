@@ -12,6 +12,7 @@ export default function Header() {
             </div>
             
             <div className="SiteTitleText middle">Michael Coniaris</div>
+            <div className="SiteSubHeader middle">Web Developer</div>
             <div className="SiteLinkContainer middle">
                 <div className="SiteLink"><a href="https://github.com/mconiaris">GitHub Profile</a></div>
                 <div className="SiteLinkDivider"> | </div>
