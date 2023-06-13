@@ -3,8 +3,8 @@ body {
 }
 
 .MainContainer {
-    margin-top: 5px;
     max-width: inherit;
+    background-color: #e4e488;
 }
 
 .SamplesContainer {
