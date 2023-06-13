@@ -6,3 +6,13 @@
     color: white;
     text-align: center;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    background: #90f945;
+  }
