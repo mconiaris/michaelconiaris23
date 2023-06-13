@@ -12,7 +12,8 @@ export default function Main() {
                             alt="SPWG Card Maker Link." 
                             src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SPWG+Card+maker+Screen+Shot.png">
                         </img>
-                        This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards.
+                        <p>This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards. This is sample text for spwgcards.</p>
+                        
                     </div>
                 </div>
                 <div className="Sample">
@@ -22,7 +23,7 @@ export default function Main() {
                             alt="Courtney Follweiler's Website." 
                             src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Courtney-Follweiler.png">
                         </img>
-                        This is sample text for Courtney's Website.
+                        <p>This is sample text for Courtney's Website.</p>
                     </div>
                 </div>
             </div>
