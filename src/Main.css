@@ -12,17 +12,6 @@ body {
     grid-template-columns: repeat(2, 1fr);
 }
 
-.SamplesTitle {
-    color: Black;
-    text-align: center;
-    font-family: sans-serif;
-}
-
-.SamplesTitle h1 {
-    margin-top: 2px;
-    margin-bottom: 2px;
-}
-
 .Sample h2 {
     text-align: center;
     margin: 2px;

@@ -4,9 +4,6 @@ import './Main.css';
 export default function Main() {
     return (
         <div className="MainContainer">
-            <div className="SamplesTitle">
-                <h1>Samples</h1>
-            </div>
             <div className="SamplesContainer">
                 <div className="Sample">
                     <h2>spwgcards</h2>
