@@ -8,24 +8,14 @@ body {
 }
 
 .SamplesContainer {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.SamplesContainer h1 {
-    font-size: 1em;
-    margin: 3px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .SamplesTitle {
     color: Black;
     text-align: center;
-    font-size: 1em;
-    border: 1px solid #dfde4b;
     font-family: sans-serif;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .SamplesTitle h1 {
@@ -36,11 +26,10 @@ body {
 .Sample h2 {
     text-align: center;
     margin: 2px;
-    color: black;
 }
 
 .Sample img {
-    max-width: 80%;
+    max-width: 50%;
     float: right;
     
 }
