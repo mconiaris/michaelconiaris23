@@ -12,6 +12,10 @@ body {
     grid-template-columns: repeat(2, 1fr);
 }
 
+.Sample {
+    padding: 15px;
+}
+
 .Sample h2 {
     text-align: center;
     margin: 2px;
