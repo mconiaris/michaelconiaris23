@@ -1,2 +1,11 @@
+.HeaderImg {
+    background-color: green;
+}
 
+.HeaderImg img {
+    width: 100%;
+}
 
+.HeaderImg p {
+    color: white;
+}
