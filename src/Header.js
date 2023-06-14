@@ -8,12 +8,16 @@ export default function Header() {
                 <h1>Michael Coniaris</h1>
                 <h2>Web Developer</h2>
             </div>
-            <div className="HeaderImg">
+            <figure className="HeaderImg">
                 <img 
                     src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg" 
                     alt="An image of Michael Coniaris spelled out in binary."
                 />
-                <p>Testing background images.</p>
+                <figcaption>Michael Coniaris is a Web developer specializing in Ruby on Rails, React HTML, CSS and JavaScript.</figcaption>
+            </figure>
+            <div className="HeaderImg">
+                
+                <p></p>
             </div>
         </header>
     )
