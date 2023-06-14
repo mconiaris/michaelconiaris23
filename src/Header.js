@@ -5,7 +5,8 @@ export default function Header() {
     return (
         <header>
             <div className="Banner">
-                <h1>Michael Coniaris | Web Developer</h1>
+                <h1>Michael Coniaris</h1>
+                <h2>Web Developer</h2>
             </div>
             <div className="HeaderImg">
                 <img 
